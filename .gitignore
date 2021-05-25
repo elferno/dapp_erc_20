@@ -1,2 +1,4 @@
 .vscode
 node_modules
+geth_connect_to_network
+extract_key.js

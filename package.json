@@ -15,6 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "keythereum": "^1.2.0",
     "lite-server": "^2.6.1",
     "web3": "^1.3.5"
   }

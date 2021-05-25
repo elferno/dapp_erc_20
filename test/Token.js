@@ -1,4 +1,3 @@
-/*
 const Token = artifacts.require('Token')
 
 contract('Token', accounts =>
@@ -155,4 +154,3 @@ contract('Token', accounts =>
 		assert.notEqual(errorApproved, null, "transaction revert since approved balance is exceeded")
 	})
 })
-*/
